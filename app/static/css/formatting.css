@@ -1,0 +1,51 @@
+body {
+  background-color: darkorchid;
+  color: white;
+}
+
+button {
+  background-color: lime;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-family: arial;
+}
+
+submit {
+  background-color: lime;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-family: arial;
+}
+
+h1 {
+  color: red;
+  background-color: black;
+}
+/* Status */
+
+h2 {
+  color: black;
+  font-weight: bold;
+  font-family: arial;
+  background-color: lightblue;
+  padding: 10px;
+  padding-left: 0px;
+  text-shadow: 2px 2px white;
+}
+/* Big title */
+
+h3 {
+  list-style: none;
+  color: darkgray;
+}
+/* lists? */
+
+h4 {
+  color: darkgray;
+}
+/* Additional Text */
+
+h5 {
+  color: darkgray;
+}
+/* Forms and Other */
