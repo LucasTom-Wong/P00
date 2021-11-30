@@ -12,6 +12,8 @@ __Team Orange Editors:__
 Lucas (LTW) Tom-Wong
 Julia (Lia) Nelson
 
+Note: Might have changed heading numbers a bit
+
 ## How to install and run our website:
 
 ### 1. Clone the repository in terminal:
