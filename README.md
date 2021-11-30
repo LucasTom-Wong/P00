@@ -12,7 +12,9 @@ __Team Orange Editors:__
 Lucas (LTW) Tom-Wong
 Julia (Lia) Nelson
 
-Note: Might have changed heading numbers a bit
+Notes:
+Might have changed heading numbers a bit
+Our choice of color palate is unique and thus superior to any that the internet may generate
 
 ## How to install and run our website:
 
