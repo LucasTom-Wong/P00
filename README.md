@@ -1,4 +1,4 @@
-# Cafe of Stories by Team Hot Cocoa
+# Cafe of Stories by Team Hot Cocoa --- Forked by Team Orange
 
 Our project is a collaborative story-telling website where users can log in to create and add onto different stories. When adding to a story, users can only see the latest update, but after contributing, users can view the full story through their home page.
 
@@ -8,6 +8,9 @@ Han Zhang: Python backend
 Annabel Zhang: Python backend  
 Hebe Huang: Database generation  
 
+__Team Orange Editors:__
+Lucas (LTW) Tom-Wong
+Julia (Lia) Nelson
 
 ## How to install and run our website:
 
