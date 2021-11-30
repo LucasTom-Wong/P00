@@ -13,7 +13,7 @@ Lucas (LTW) Tom-Wong
 Julia (Lia) Nelson
 
 Notes:
-Might have changed heading numbers a bit
+Might have changed heading numbers a bit \n
 Our choice of color palate is unique and thus superior to any that the internet may generate
 
 ## How to install and run our website:
